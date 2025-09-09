@@ -2,9 +2,9 @@
 
 Anna Jones’ corn and green chilli risotto.
 
--Prep 10 min
--Cook 60 min
--Serves 4
+Prep 10 min
+Cook 60 min
+Serves 4
 
 ## Ingredients
 -3 corn on the cob
@@ -23,7 +23,7 @@ Anna Jones’ corn and green chilli risotto.
 
 ## Instructions
 
--First, cut the corn kernels from the cobs into a bowl, then chop the shaved cobs into three.
+*First, cut the corn kernels from the cobs into a bowl, then chop the shaved cobs into three.
 
 -Pour the vegetable stock into a deep pan, add the chopped cobs and bring to a simmer, then keep warm on a low heat while you make the risotto, as you’ll want it to be hot when adding it to the rice.
 
