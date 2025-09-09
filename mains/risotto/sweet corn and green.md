@@ -2,9 +2,9 @@
 
 Anna Jones’ corn and green chilli risotto.
 
-Prep 10 min
-Cook 60 min
-Serves 4
+-Prep 10 min
+-Cook 60 min
+-Serves 4
 
 ## Ingredients
 -3 corn on the cob
